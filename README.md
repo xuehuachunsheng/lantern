@@ -32,3 +32,5 @@ Bookmark this page to download the latest versions in the future.
 **第一次下载安装蓝灯时，请等待几分钟以便完成配置，笔芯**
 
 **Please allow some time for Lantern to complete configurations if installing it for the first-time, love <3**
+
+**比什么心？Lantern 340年费，贵不说，您能稳定点吗？动不动就重新连接，重新连接的时候百度都没法访问，还不如自己搭服务器，便宜又稳定。这回过了之后再也不用lantern了，坑人的东西。**
